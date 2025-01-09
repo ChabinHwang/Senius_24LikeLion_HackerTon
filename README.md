@@ -34,7 +34,7 @@
 ## 📊 프로젝트 구조
 
 ```plaintext
-📂 project-name/
+📂 Senius_24LikeLion_HackerTon/
 ├── 📂 backend/  <!-- Spring Backend -->
 │   ├── 📂 .gradle/
 │   ├── 📂 build/
