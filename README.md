@@ -35,7 +35,7 @@
 
 ```plaintext
 📂 Senius_24LikeLion_HackerTon/
-├── 📂 backend/  <!-- Spring Backend -->
+├── 📂 backend/
 │   ├── 📂 .gradle/
 │   ├── 📂 build/
 │   ├── 📂 gradle/wrapper/
@@ -50,7 +50,7 @@
 │   │   │   │   ├── package-lock.json
 │   │   │   │   ├── package.json
 │   │   │   │   └── src.zip
-│   │   │   ├── 🌱 java/xyz/senius99/senius/
+│   │   │   ├── 🌱 java/xyz/senius99/senius/  <!-- Spring Backend -->
 │   │   │   │   ├── 📂 common/
 │   │   │   │   ├── 📂 config/
 │   │   │   │   ├── 📂 controller/
